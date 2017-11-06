@@ -23,7 +23,7 @@ Time spent: 6 hours spent in total
 
 ### Data summary
  
-- dionea Honeypot caught 12501 attacks
+- dionea Honeypot caught 12,501 attacks
 - amun Honeypot caught 1,089 attacks 
 - snort Honeypot caught 694
 - glastopf Honeypot caught only 7 attacks. 
